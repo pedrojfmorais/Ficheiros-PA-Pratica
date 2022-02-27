@@ -1,6 +1,6 @@
 Compilar ficheiros:
 
-    javac -d build .\pt\isec\deis\pa\aula1\ParInteiros.java .\pt\isec\deis\pa\aula1\SomaParInteiros.java
+    javac -d build .\pt\isec\deis\pa\aula1\"file1".java .\pt\isec\deis\pa\aula1\"fileX".java
 
 Criar Ficheiro Manifest:
 
