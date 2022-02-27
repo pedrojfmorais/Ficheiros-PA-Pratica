@@ -1,0 +1,15 @@
+Compilar ficheiros:
+
+    javac -d build .\pt\isec\deis\pa\aula1\ParInteiros.java .\pt\isec\deis\pa\aula1\SomaParInteiros.java
+
+Criar Ficheiro Manifest:
+
+    Main-Class: pt.isec.deis.pa.aula1."Ficheiro com a função main"
+
+Criar ficheiro executável:
+
+    jar -cfm jar/aula1.jar .\Manifest\aula1.txt .\pt\isec\deis\pa\aula1\*
+
+Executar executável:
+
+    java -jar .\jar\aula1.jar
