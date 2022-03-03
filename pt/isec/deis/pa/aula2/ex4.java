@@ -39,7 +39,7 @@ public class ex4 {
     }
 
     void nDuplicados(){
-        System.out.println("\n " + dup + " ");
+        System.out.println("\n Numeors duplicados: " + dup + " ");
     }
 
     public static void main(String[] args) throws Exception{

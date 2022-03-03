@@ -4,7 +4,7 @@ Compilar ficheiros:
 
 Criar Ficheiro Manifest:
 
-    Main-Class: pt.isec.deis.pa.aula1."Ficheiro com a função main"
+    Main-Class: pt.isec.deis.pa.aula1."Ficheiro com a função main" //mete o caralho do enter
 
 Criar ficheiro executável:
 
