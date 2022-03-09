@@ -1,4 +1,4 @@
-package pt.isec.deis.pa.aula3;
+package pt.isec.deis.pa.aula3.ex9;
 
 public class ex9 {
     public static void main(String[] args) {

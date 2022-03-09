@@ -1,4 +1,4 @@
-package pt.isec.deis.pa.aula3;
+package pt.isec.deis.pa.aula3.ex7;
 
 public class ex7 {
     public static void main(String[] args) throws CloneNotSupportedException {

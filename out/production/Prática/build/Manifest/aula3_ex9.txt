@@ -1,1 +1,1 @@
-Main-Class: pt.isec.deis.pa.aula3.ex9
+Main-Class: pt.isec.deis.pa.aula3.ex9.ex9

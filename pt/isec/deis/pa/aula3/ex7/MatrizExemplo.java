@@ -1,4 +1,4 @@
-package pt.isec.deis.pa.aula3;
+package pt.isec.deis.pa.aula3.ex7;
 
 import java.util.Arrays;
 
@@ -10,7 +10,7 @@ public class MatrizExemplo {
     }
 
     public MatrizExemplo(MatrizExemplo outro){
-        copy(outro);
+        _copy(outro);
     }
 
     @Override
@@ -18,7 +18,7 @@ public class MatrizExemplo {
         return new MatrizExemplo(this);
     }
 
-    public void copy(MatrizExemplo outro){
+    public void _copy(MatrizExemplo outro){
         matriz = new float[outro.matriz.length][];
         for (int i = 0; i < matriz.length; i++) {
             matriz[i] = Arrays.copyOf(outro.matriz[i], outro.matriz[i].length);
@@ -29,9 +29,7 @@ public class MatrizExemplo {
         return matriz[linha][coluna];
     }
 
-    public void set(int linha, int coluna, float value){
-        matriz[linha][coluna] = value;
-    }
+    public void set(int linha, int coluna, float value){ matriz[linha][coluna] = value; }
 
     public void show(){
         for (float[] linha : matriz) {

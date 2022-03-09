@@ -1,4 +1,4 @@
-package pt.isec.deis.pa.aula3;
+package pt.isec.deis.pa.aula3.ex9;
 
 public class TrianguloPascal {
     
@@ -27,11 +27,15 @@ public class TrianguloPascal {
         StringBuilder sb = new StringBuilder("[");
 
         for (int i = 0; i < mat.length; i++) {
-            sb.append("\n[");
-            for (int j = 0; j < mat[i].length; j++) {
-                sb.append(" " + mat[i][j]);
+
+            for (int j = 0; j < (mat.length-i); j++) {
+                sb.append("   ");
             }
-            sb.append("]");
+            sb.append("   ");
+            for (int j = 0; j < mat[i].length; j++) {
+                sb.append("   " + mat[i][j]);
+            }
+            sb.append("\n");
         }
         sb.append("\n]");
 
