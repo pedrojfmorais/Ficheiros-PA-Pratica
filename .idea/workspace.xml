@@ -1,24 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab81b83a-d652-416e-ba70-f310cbe6a876" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/aula5/ex11/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/aula5/ex11/Report.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/aula5/ex11/ReportUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/aula6/ex13/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/aula6/ex13/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/aula6/ex13/LibraryUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/aula6/ex13/Library_ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/aula6/ex13/Library_HashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/aula6/ex13/Library_HashSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/aula6/ex13/ex13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/utils/PAInput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Prática.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Prática/.idea/libraries/jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Prática/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Prática/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Prática/.idea/vcs.xml" beforeDir="false" />
+    <list default="true" id="ab81b83a-d652-416e-ba70-f310cbe6a876" name="Changes" comment="aula6">
+      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/aula6/ex13/ILibrary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Prática/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/aula6/ex13/Library.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/aula6/ex13/Library.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/aula6/ex13/Library_ArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/aula6/ex13/Library_ArrayList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/aula6/ex13/Library_HashMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/aula6/ex13/Library_HashMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/aula6/ex13/Library_HashSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/aula6/ex13/Library_HashSet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/aula6/ex13/ex13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/aula6/ex13/ex13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pt/isec/deis/pa/aula6/ex13/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/deis/pa/aula6/ex13/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pt/isec/deis/pa/aula6/ex13/Library_ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/deis/pa/aula6/ex13/Library_ArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pt/isec/deis/pa/aula6/ex13/Library_HashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/deis/pa/aula6/ex13/Library_HashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pt/isec/deis/pa/aula6/ex13/Library_HashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/deis/pa/aula6/ex13/Library_HashSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pt/isec/deis/pa/aula6/ex13/ex13.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/deis/pa/aula6/ex13/ex13.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,6 +96,14 @@
       <option name="presentableId" value="Default" />
       <updated>1646935176895</updated>
     </task>
+    <task id="LOCAL-00001" summary="aula6">
+      <created>1647458932164</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1647458932164</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -112,5 +116,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="aula6" />
+    <option name="LAST_COMMIT_MESSAGE" value="aula6" />
   </component>
 </project>

@@ -1,4 +1,4 @@
-package pt.isec.deis.pa.aula6.ex13;
+package pt.isec.deis.pa.aula6.ex13.Model;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,5 +1,7 @@
-package pt.isec.deis.pa.aula6.ex13;
+package pt.isec.deis.pa.aula6.ex13.UI;
 
+import pt.isec.deis.pa.aula6.ex13.Model.Book;
+import pt.isec.deis.pa.aula6.ex13.Model.Library;
 import pt.isec.deis.pa.utils.PAInput;
 import java.util.ArrayList;
 
