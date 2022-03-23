@@ -62,7 +62,7 @@ public class Library_ArrayList extends Library {
     public String toStringSorted(){
         ArrayList<Book> sortBooks = new ArrayList<>(livros);
         //Collections.sort(sortBooks);
-        sortBooks.sort(new BookComparator());
+        Collections.sort(sortBooks, new BookComparator());
         return sortBooks.toString();
     }
 }
