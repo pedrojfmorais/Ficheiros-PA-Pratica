@@ -1,25 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab81b83a-d652-416e-ba70-f310cbe6a876" name="Changes" comment="aula7">
-      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex19/Model/Books/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex19/Model/Books/BookComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex19/Model/Books/OldBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex19/Model/Books/RecentBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex19/Model/Libraries/ILibrary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex19/Model/Libraries/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex19/Model/Libraries/Library_ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex19/UI/LibraryUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex19/ex19.java" afterDir="false" />
+    <list default="true" id="ab81b83a-d652-416e-ba70-f310cbe6a876" name="Changes" comment="aula já perdi a conta">
+      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/aula9/aula9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex15/Dictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex15/aula9_ex15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex23/Frota/CargaComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex23/Frota/Frota.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex23/Frota/IMaxLoad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex23/Frota/IPassengers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex23/Frota/PassageirosComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex23/Frota/Veiculo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex23/Frota/VeiculoCarga.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex23/Frota/VeiculoLigeiroPassageiros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex23/Frota/VeiculoPesadoPassageiros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex23/UI/FrotaUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex23/ex23.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Prática/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Prática/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/aula6/ex13/Book.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/aula6/ex13/Library.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/aula6/ex13/LibraryUI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/aula6/ex13/Library_ArrayList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/aula6/ex13/Library_HashMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/aula6/ex13/Library_HashSet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/aula6/ex13/ex13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/aula6/ex13/ex13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/aula6/ex13/Model/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/aula6/ex13/Model/ILibrary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/aula6/ex13/Model/Library.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/aula6/ex13/Model/Library_ArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/aula6/ex13/Model/Library_HashMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/aula6/ex13/Model/Library_HashSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/aula6/ex13/UI/LibraryUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/aula6/ex13/ex13.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +35,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -48,6 +55,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -67,7 +75,7 @@
       <recent name="pt.isec.deis.pa.aula6.ex13" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ex19">
+  <component name="RunManager" selected="Application.ex23">
     <configuration name="JavaSDK17" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="pt.isec.deis.pa.aula5.ex11.Main" />
       <module name="Prática" />
@@ -101,13 +109,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ex23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pt.isec.deis.pa.fichaExercicios.ex23.ex23" />
+      <module name="Prática" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pt.isec.deis.pa.fichaExercicios.ex23.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.JavaSDK17" />
       <item itemvalue="Application.ex13" />
       <item itemvalue="Application.ex19" />
+      <item itemvalue="Application.ex23" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ex23" />
         <item itemvalue="Application.ex19" />
         <item itemvalue="Application.ex13" />
       </list>
@@ -136,7 +159,21 @@
       <option name="project" value="LOCAL" />
       <updated>1647544012603</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="aula já perdi a conta">
+      <created>1648062773624</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1648062773624</updated>
+    </task>
+    <task id="LOCAL-00004" summary="aula já perdi a conta">
+      <created>1648063012827</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1648063012827</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -151,8 +188,10 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="aula6" />
     <MESSAGE value="aula7" />
-    <option name="LAST_COMMIT_MESSAGE" value="aula7" />
+    <MESSAGE value="aula já perdi a conta" />
+    <option name="LAST_COMMIT_MESSAGE" value="aula já perdi a conta" />
   </component>
 </project>
