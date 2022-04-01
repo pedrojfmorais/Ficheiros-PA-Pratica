@@ -1,28 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab81b83a-d652-416e-ba70-f310cbe6a876" name="Changes" comment="aula já perdi a conta">
-      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/aula9/aula9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex15/Dictionary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex15/aula9_ex15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex23/Frotas/Frota.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex23/UI/FrotaUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex23/Veiculos/IMaxLoad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex23/Veiculos/IPassengers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex23/Veiculos/Veiculo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex23/Veiculos/VeiculoCarga.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex23/Veiculos/VeiculoLigeiroPassageiros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex23/Veiculos/VeiculoPesadoPassageiros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex23/ex23.java" afterDir="false" />
+    <list default="true" id="ab81b83a-d652-416e-ba70-f310cbe6a876" name="Changes" comment="ex23">
+      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex24/data/Elevator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex24/ex24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex24/fsm/ElevatorContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex24/fsm/ElevatorState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex24/fsm/ElevatorStateAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex24/fsm/FirstFloorState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex24/fsm/GroundFloorState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex24/fsm/IElevatorState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex24/fsm/SecondFloorState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex24/ui/ElevatorUI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/aula6/ex13/Model/Book.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/aula6/ex13/Model/ILibrary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/aula6/ex13/Model/Library.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/aula6/ex13/Model/Library_ArrayList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/aula6/ex13/Model/Library_HashMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/aula6/ex13/Model/Library_HashSet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/aula6/ex13/UI/LibraryUI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/aula6/ex13/ex13.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +22,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Interface" />
         <option value="Class" />
       </list>
@@ -170,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648063012827</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="ex23">
+      <created>1648664786591</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1648664786591</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -189,6 +187,7 @@
     <MESSAGE value="aula6" />
     <MESSAGE value="aula7" />
     <MESSAGE value="aula já perdi a conta" />
-    <option name="LAST_COMMIT_MESSAGE" value="aula já perdi a conta" />
+    <MESSAGE value="ex23" />
+    <option name="LAST_COMMIT_MESSAGE" value="ex23" />
   </component>
 </project>
