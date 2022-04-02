@@ -1,2 +1,2 @@
-Main-Class: pt.isec.pa.aula2.ex4
+Main-Class: pt.isec.pa.fichaExercicios.ex4.ex4
 

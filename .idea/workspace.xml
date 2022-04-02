@@ -1,74 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab81b83a-d652-416e-ba70-f310cbe6a876" name="Changes" comment="ex24">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="ab81b83a-d652-416e-ba70-f310cbe6a876" name="Changes" comment="changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/Manifest/aula1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/Manifest/aula1.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/Manifest/aula2_ex2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/Manifest/aula2_ex2.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/Manifest/aula2_ex4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/Manifest/aula2_ex4.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/Manifest/aula3_ex7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/Manifest/aula3_ex7.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/Manifest/aula3_ex9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/Manifest/aula3_ex9.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/commandos.txt" beforeDir="false" afterPath="$PROJECT_DIR$/commandos.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/deis/pa/aula1/ParInteiros.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/aula1/ParInteiros.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/deis/pa/aula1/SomaParInteiros.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/aula1/SomaParInteiros.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/deis/pa/aula2/ex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/aula2/ex2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/deis/pa/aula2/ex4.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/aula2/ex4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/deis/pa/aula3/ex7/MatrizExemplo.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/aula3/ex7/MatrizExemplo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/deis/pa/aula3/ex7/ex7.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/aula3/ex7/ex7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/deis/pa/aula3/ex9/TrianguloPascal.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/aula3/ex9/TrianguloPascal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/deis/pa/aula3/ex9/ex9.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/aula3/ex9/ex9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/deis/pa/aula4/ex10/Interface/JogoEnforcadoIU.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/ex10/Interface/JogoEnforcadoIU.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/deis/pa/aula4/ex10/Modelo/JogoEnforcadoDicionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/ex10/Modelo/JogoEnforcadoDicionario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/deis/pa/aula4/ex10/Modelo/JogoEnforcadoModelo.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/ex10/Modelo/JogoEnforcadoModelo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/deis/pa/aula4/ex10/ex10.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/ex10/ex10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/deis/pa/aula5/ex11/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/ex11/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/deis/pa/aula5/ex11/Report.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/ex11/Report.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/deis/pa/aula5/ex11/ReportUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/ex11/ReportUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/deis/pa/aula6/ex13/Model/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/ex13/Model/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/deis/pa/aula6/ex13/Model/ILibrary.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/ex13/Model/ILibrary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/deis/pa/aula6/ex13/Model/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/ex13/Model/Library.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/deis/pa/aula6/ex13/Model/Library_ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/ex13/Model/Library_ArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/deis/pa/aula6/ex13/Model/Library_HashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/ex13/Model/Library_HashMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/deis/pa/aula6/ex13/Model/Library_HashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/ex13/Model/Library_HashSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/deis/pa/aula6/ex13/UI/LibraryUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/ex13/UI/LibraryUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/deis/pa/aula6/ex13/ex13.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/ex13/ex13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/deis/pa/aula9/aula9.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/aula9/aula9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex15/Dictionary.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex15/Dictionary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex15/aula9_ex15.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex15/aula9_ex15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex19/Model/Books/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex19/Model/Books/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex19/Model/Books/BookComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex19/Model/Books/BookComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex19/Model/Books/OldBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex19/Model/Books/OldBook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex19/Model/Books/RecentBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex19/Model/Books/RecentBook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex19/Model/Libraries/ILibrary.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex19/Model/Libraries/ILibrary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex19/Model/Libraries/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex19/Model/Libraries/Library.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex19/Model/Libraries/Library_ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex19/Model/Libraries/Library_ArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex19/UI/LibraryUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex19/UI/LibraryUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex19/ex19.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex19/ex19.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex23/Frota/CargaComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex23/Frota/CargaComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex23/Frota/Frota.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex23/Frota/Frota.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex23/Frota/IMaxLoad.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex23/Frota/IMaxLoad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex23/Frota/IPassengers.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex23/Frota/IPassengers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex23/Frota/PassageirosComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex23/Frota/PassageirosComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex23/Frota/Veiculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex23/Frota/Veiculo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex23/Frota/VeiculoCarga.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex23/Frota/VeiculoCarga.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex23/Frota/VeiculoLigeiroPassageiros.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex23/Frota/VeiculoLigeiroPassageiros.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex23/Frota/VeiculoPesadoPassageiros.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex23/Frota/VeiculoPesadoPassageiros.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex23/UI/FrotaUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex23/UI/FrotaUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex23/ex23.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex23/ex23.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex24/data/Elevator.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex24/data/Elevator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex24/ex24.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex24/ex24.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex24/fsm/ElevatorContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex24/fsm/ElevatorContext.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex24/fsm/ElevatorState.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex24/fsm/ElevatorState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex24/fsm/ElevatorStateAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex24/fsm/ElevatorStateAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex24/fsm/FirstFloorState.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex24/fsm/FirstFloorState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex24/fsm/GroundFloorState.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex24/fsm/GroundFloorState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex24/fsm/IElevatorState.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex24/fsm/IElevatorState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex24/fsm/SecondFloorState.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex24/fsm/SecondFloorState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex24/ui/ElevatorUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex24/ui/ElevatorUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex5/Totoloto.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex5/Totoloto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex5/ex5.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex5/ex5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/deis/pa/utils/PAInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/utils/PAInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pt/isec/pa/aula2/ex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex2/ex2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pt/isec/pa/aula2/ex4.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex4/ex4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pt/isec/pa/aula3/ex7/MatrizExemplo.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex7/MatrizExemplo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pt/isec/pa/aula3/ex7/ex7.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex7/ex7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pt/isec/pa/aula3/ex9/TrianguloPascal.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex9/TrianguloPascal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pt/isec/pa/aula3/ex9/ex9.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex9/ex9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pt/isec/pa/ex10/Interface/JogoEnforcadoIU.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex10/Interface/JogoEnforcadoIU.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pt/isec/pa/ex10/Modelo/JogoEnforcadoDicionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex10/Modelo/JogoEnforcadoDicionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pt/isec/pa/ex10/Modelo/JogoEnforcadoModelo.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex10/Modelo/JogoEnforcadoModelo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pt/isec/pa/ex10/ex10.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex10/ex10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pt/isec/pa/ex11/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex11/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pt/isec/pa/ex11/Report.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex11/Report.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pt/isec/pa/ex11/ReportUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex11/ReportUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pt/isec/pa/ex13/Model/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex13/Model/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pt/isec/pa/ex13/Model/ILibrary.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex13/Model/ILibrary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pt/isec/pa/ex13/Model/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex13/Model/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pt/isec/pa/ex13/Model/Library_ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex13/Model/Library_ArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pt/isec/pa/ex13/Model/Library_HashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex13/Model/Library_HashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pt/isec/pa/ex13/Model/Library_HashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex13/Model/Library_HashSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pt/isec/pa/ex13/UI/LibraryUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex13/UI/LibraryUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pt/isec/pa/ex13/ex13.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex13/ex13.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,18 +80,18 @@
   </component>
   <component name="RunManager" selected="Application.ex24">
     <configuration name="JavaSDK17" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="pt.isec.pa.ex11.Main" />
+      <option name="MAIN_CLASS_NAME" value="pt.isec.pa.fichaExercicios.ex11.Main" />
       <module name="Prática" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="ex13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pt.isec.pa.ex13.ex13" />
+      <option name="MAIN_CLASS_NAME" value="pt.isec.pa.fichaExercicios.ex13.ex13" />
       <module name="Prática" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pt.isec.pa.ex13.Model.*" />
+          <option name="PATTERN" value="pt.isec.pa.fichaExercicios.ex13.Model.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -246,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648828811075</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="changes">
+      <created>1648896975676</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1648896975676</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -267,6 +233,7 @@
     <MESSAGE value="aula já perdi a conta" />
     <MESSAGE value="ex23" />
     <MESSAGE value="ex24" />
-    <option name="LAST_COMMIT_MESSAGE" value="ex24" />
+    <MESSAGE value="changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes" />
   </component>
 </project>
