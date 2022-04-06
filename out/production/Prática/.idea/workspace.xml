@@ -1,18 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab81b83a-d652-416e-ba70-f310cbe6a876" name="Changes" comment="ex23">
-      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex24/data/Elevator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex24/ex24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex24/fsm/ElevatorContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex24/fsm/ElevatorState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex24/fsm/ElevatorStateAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex24/fsm/FirstFloorState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex24/fsm/GroundFloorState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex24/fsm/IElevatorState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex24/fsm/SecondFloorState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/isec/deis/pa/fichaExercicios/ex24/ui/ElevatorUI.java" afterDir="false" />
+    <list default="true" id="ab81b83a-d652-416e-ba70-f310cbe6a876" name="Changes" comment="changes">
+      <change afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex24/fsm/BrokenState.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prática.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Prática.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex24/fsm/ElevatorContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex24/fsm/ElevatorContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex24/fsm/ElevatorState.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex24/fsm/ElevatorState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex24/fsm/FirstFloorState.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex24/fsm/FirstFloorState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex24/fsm/GroundFloorState.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex24/fsm/GroundFloorState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex24/fsm/SecondFloorState.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex24/fsm/SecondFloorState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex24/ui/ElevatorUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex24/ui/ElevatorUI.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,20 +61,20 @@
       <recent name="pt.isec.deis.pa.aula6.ex13" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ex23">
+  <component name="RunManager" selected="Application.ex24">
     <configuration name="JavaSDK17" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="pt.isec.deis.pa.aula5.ex11.Main" />
+      <option name="MAIN_CLASS_NAME" value="pt.isec.pa.fichaExercicios.ex11.Main" />
       <module name="Prática" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="ex13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pt.isec.deis.pa.aula6.ex13.ex13" />
+      <option name="MAIN_CLASS_NAME" value="pt.isec.pa.fichaExercicios.ex13.ex13" />
       <module name="Prática" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pt.isec.deis.pa.aula6.ex13.Model.*" />
+          <option name="PATTERN" value="pt.isec.pa.fichaExercicios.ex13.Model.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,11 +83,11 @@
       </method>
     </configuration>
     <configuration name="ex19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pt.isec.deis.pa.fichaExercicios.ex19.ex19" />
+      <option name="MAIN_CLASS_NAME" value="pt.isec.pa.fichaExercicios.ex19.ex19" />
       <module name="Prática" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pt.isec.deis.pa.fichaExercicios.ex19.*" />
+          <option name="PATTERN" value="pt.isec.pa.fichaExercicios.ex19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,11 +96,24 @@
       </method>
     </configuration>
     <configuration name="ex23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pt.isec.deis.pa.fichaExercicios.ex23.ex23" />
+      <option name="MAIN_CLASS_NAME" value="pt.isec.pa.fichaExercicios.ex23.ex23" />
       <module name="Prática" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pt.isec.deis.pa.fichaExercicios.ex23.*" />
+          <option name="PATTERN" value="pt.isec.pa.fichaExercicios.ex23.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pt.isec.pa.fichaExercicios.ex24.ex24" />
+      <module name="Prática" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pt.isec.pa.fichaExercicios.ex24.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,9 +126,11 @@
       <item itemvalue="Application.ex13" />
       <item itemvalue="Application.ex19" />
       <item itemvalue="Application.ex23" />
+      <item itemvalue="Application.ex24" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ex24" />
         <item itemvalue="Application.ex23" />
         <item itemvalue="Application.ex19" />
         <item itemvalue="Application.ex13" />
@@ -168,7 +181,28 @@
       <option name="project" value="LOCAL" />
       <updated>1648664786591</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="ex24">
+      <created>1648828811075</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1648828811075</updated>
+    </task>
+    <task id="LOCAL-00007" summary="changes">
+      <created>1648896975676</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1648896975676</updated>
+    </task>
+    <task id="LOCAL-00008" summary="changes">
+      <created>1648897334490</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1648897334490</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -188,6 +222,8 @@
     <MESSAGE value="aula7" />
     <MESSAGE value="aula já perdi a conta" />
     <MESSAGE value="ex23" />
-    <option name="LAST_COMMIT_MESSAGE" value="ex23" />
+    <MESSAGE value="ex24" />
+    <MESSAGE value="changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes" />
   </component>
 </project>

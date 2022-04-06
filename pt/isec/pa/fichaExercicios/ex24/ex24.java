@@ -1,6 +1,6 @@
 package pt.isec.pa.fichaExercicios.ex24;
 
-import pt.isec.pa.fichaExercicios.ex24.fsm.ElevatorContext;
+import pt.isec.pa.fichaExercicios.ex24.model.fsm.ElevatorContext;
 import pt.isec.pa.fichaExercicios.ex24.ui.ElevatorUI;
 
 public class ex24 {

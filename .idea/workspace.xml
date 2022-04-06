@@ -2,32 +2,82 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab81b83a-d652-416e-ba70-f310cbe6a876" name="Changes" comment="changes">
+      <change afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex24/model/fsm/BrokenState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex24/model/fsm/ElevatorState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pt/isec/pa/utils/ModelLogs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/Manifest/aula2_ex2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/Manifest/aula2_ex2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/Manifest/aula2_ex4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/Manifest/aula2_ex4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/Manifest/aula3_ex7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/Manifest/aula3_ex7.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/Manifest/aula3_ex9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/Manifest/aula3_ex9.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/pa/aula2/ex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex2/ex2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/pa/aula2/ex4.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex4/ex4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/pa/aula3/ex7/MatrizExemplo.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex7/MatrizExemplo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/pa/aula3/ex7/ex7.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex7/ex7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/pa/aula3/ex9/TrianguloPascal.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex9/TrianguloPascal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/pa/aula3/ex9/ex9.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex9/ex9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/pa/ex10/Interface/JogoEnforcadoIU.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex10/Interface/JogoEnforcadoIU.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/pa/ex10/Modelo/JogoEnforcadoDicionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex10/Modelo/JogoEnforcadoDicionario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/pa/ex10/Modelo/JogoEnforcadoModelo.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex10/Modelo/JogoEnforcadoModelo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/pa/ex10/ex10.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex10/ex10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/pa/ex11/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex11/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/pa/ex11/Report.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex11/Report.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/pa/ex11/ReportUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex11/ReportUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/pa/ex13/Model/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex13/Model/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/pa/ex13/Model/ILibrary.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex13/Model/ILibrary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/pa/ex13/Model/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex13/Model/Library.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/pa/ex13/Model/Library_ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex13/Model/Library_ArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/pa/ex13/Model/Library_HashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex13/Model/Library_HashMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/pa/ex13/Model/Library_HashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex13/Model/Library_HashSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/pa/ex13/UI/LibraryUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex13/UI/LibraryUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/pa/ex13/ex13.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex13/ex13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prática.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Prática.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Prática/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/build/Manifest/aula1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Prática/build/Manifest/aula1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/build/Manifest/aula2_ex2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Prática/build/Manifest/aula2_ex2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/build/Manifest/aula2_ex4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Prática/build/Manifest/aula2_ex4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/build/Manifest/aula3_ex7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Prática/build/Manifest/aula3_ex7.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/build/Manifest/aula3_ex9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Prática/build/Manifest/aula3_ex9.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/commandos.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Prática/commandos.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/aula1/ParInteiros.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/aula1/SomaParInteiros.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/aula2/ex2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/aula2/ex4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/aula3/ex7/MatrizExemplo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/aula3/ex7/ex7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/aula3/ex9/TrianguloPascal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/aula3/ex9/ex9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/aula4/ex10/Interface/JogoEnforcadoIU.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/aula4/ex10/Modelo/JogoEnforcadoDicionario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/aula4/ex10/Modelo/JogoEnforcadoModelo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/aula4/ex10/ex10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/aula5/ex11/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/aula5/ex11/Report.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/aula5/ex11/ReportUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/aula9/TemperaturaDiaria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/aula9/Temperaturas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/aula9/aula9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/fichaExercicios/ex15/Dictionary$DictionaryOneLang.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/fichaExercicios/ex15/Dictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/fichaExercicios/ex15/aula9_ex15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/fichaExercicios/ex19/Model/Books/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/fichaExercicios/ex19/Model/Books/BookComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/fichaExercicios/ex19/Model/Books/OldBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/fichaExercicios/ex19/Model/Books/RecentBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/fichaExercicios/ex19/Model/Libraries/ILibrary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/fichaExercicios/ex19/Model/Libraries/Library.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/fichaExercicios/ex19/Model/Libraries/Library_ArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/fichaExercicios/ex19/UI/LibraryUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/fichaExercicios/ex19/ex19.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/fichaExercicios/ex23/Frota/CargaComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/fichaExercicios/ex23/Frota/Frota.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/fichaExercicios/ex23/Frota/IMaxLoad.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/fichaExercicios/ex23/Frota/IPassengers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/fichaExercicios/ex23/Frota/PassageirosComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/fichaExercicios/ex23/Frota/Veiculo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/fichaExercicios/ex23/Frota/VeiculoCarga.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/fichaExercicios/ex23/Frota/VeiculoLigeiroPassageiros.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/fichaExercicios/ex23/Frota/VeiculoPesadoPassageiros.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/fichaExercicios/ex23/ex23.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/fichaExercicios/ex24/data/Elevator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/fichaExercicios/ex24/ex24.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/fichaExercicios/ex24/fsm/ElevatorContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/fichaExercicios/ex24/fsm/ElevatorState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/fichaExercicios/ex24/fsm/ElevatorStateAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/fichaExercicios/ex24/fsm/FirstFloorState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/fichaExercicios/ex24/fsm/GroundFloorState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/fichaExercicios/ex24/fsm/IElevatorState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/fichaExercicios/ex24/fsm/SecondFloorState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/fichaExercicios/ex24/ui/ElevatorUI$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/fichaExercicios/ex24/ui/ElevatorUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/fichaExercicios/ex5/Totoloto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/fichaExercicios/ex5/ex5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/deis/pa/utils/PAInput.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex24/data/Elevator.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex24/model/data/Elevator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex24/ex24.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex24/ex24.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex24/fsm/ElevatorContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex24/model/fsm/ElevatorContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex24/fsm/ElevatorState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex24/fsm/ElevatorStateAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex24/model/fsm/ElevatorStateAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex24/fsm/FirstFloorState.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex24/model/fsm/FirstFloorState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex24/fsm/GroundFloorState.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex24/model/fsm/GroundFloorState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex24/fsm/IElevatorState.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex24/model/fsm/IElevatorState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex24/fsm/SecondFloorState.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex24/model/fsm/SecondFloorState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex24/ui/ElevatorUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex24/ui/ElevatorUI.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -212,7 +262,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648896975676</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="changes">
+      <created>1648897334490</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1648897334490</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

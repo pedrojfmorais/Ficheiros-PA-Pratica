@@ -1,2 +1,2 @@
-Main-Class: pt.isec.deis.pa.aula1.SomaParInteiros
+Main-Class: pt.isec.pa.aula1.SomaParInteiros
 
