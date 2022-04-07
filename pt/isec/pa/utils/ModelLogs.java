@@ -1,7 +1,6 @@
 package pt.isec.pa.utils;
 
 import java.util.ArrayList;
-import java.util.HashSet;
 
 public class ModelLogs {
     private static ModelLogs instance = null;
