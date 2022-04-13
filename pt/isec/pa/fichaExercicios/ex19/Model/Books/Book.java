@@ -59,7 +59,7 @@ public class Book implements Comparable<Book>{
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
-        if (o == null || !(o instanceof Book)) return false;
+        if (!(o instanceof Book)) return false;
         Book book = (Book) o;
         return codigo == book.codigo;
     }

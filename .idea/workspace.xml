@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab81b83a-d652-416e-ba70-f310cbe6a876" name="Changes" comment="changes">
-      <change afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex27/ex27.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex27/model/data/BallType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex27/model/data/GameBWData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex27/model/fsm/GameBWContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex27/model/fsm/GameBWState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex27/model/fsm/GameBWStateAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex27/model/fsm/IGameBWState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex27/model/fsm/beforeBetState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex27/model/fsm/lostWaitDecisionState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex27/model/fsm/notPlayingState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex27/ui/GameBWUI.java" afterDir="false" />
+    <list default="true" id="ab81b83a-d652-416e-ba70-f310cbe6a876" name="Changes" comment="ex27">
+      <change afterPath="$PROJECT_DIR$/files/alunos.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/candidaturas.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/docentes.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/propostas.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/isec/pa/utils/ModelLogs.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/utils/ModelLogs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Prática/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex19/Model/Books/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex19/Model/Books/Book.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex24/ui/ElevatorUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex24/ui/ElevatorUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex19/Model/Books/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex19/Model/Books/Book.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,12 +56,13 @@
       <recent name="pt.isec.deis.pa.utils" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pt.isec.pa.apoio_poe.utils" />
       <recent name="pt.isec.deis.pa.fichaExercicios.ex19.Model" />
       <recent name="pt.isec.deis.pa.fichaExercicios.ex19.UI" />
       <recent name="pt.isec.deis.pa.aula6.ex13" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ex27">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="JavaSDK17" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="pt.isec.pa.fichaExercicios.ex11.Main" />
       <module name="Prática" />
@@ -73,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pt.isec.pa.fichaExercicios.ex13.ex13" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pt.isec.pa.apoio_poe.Main" />
       <module name="Prática" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pt.isec.pa.fichaExercicios.ex13.Model.*" />
+          <option name="PATTERN" value="pt.isec.pa.apoio_poe.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,7 +137,7 @@
     </configuration>
     <list>
       <item itemvalue="Application.JavaSDK17" />
-      <item itemvalue="Application.ex13" />
+      <item itemvalue="Application.Main" />
       <item itemvalue="Application.ex19" />
       <item itemvalue="Application.ex23" />
       <item itemvalue="Application.ex24" />
@@ -148,11 +145,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.ex27" />
         <item itemvalue="Application.ex24" />
         <item itemvalue="Application.ex23" />
         <item itemvalue="Application.ex19" />
-        <item itemvalue="Application.ex13" />
       </list>
     </recent_temporary>
   </component>
@@ -228,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649270119774</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="ex27">
+      <created>1649356754021</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1649356754021</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -250,6 +254,7 @@
     <MESSAGE value="ex23" />
     <MESSAGE value="ex24" />
     <MESSAGE value="changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="changes" />
+    <MESSAGE value="ex27" />
+    <option name="LAST_COMMIT_MESSAGE" value="ex27" />
   </component>
 </project>
