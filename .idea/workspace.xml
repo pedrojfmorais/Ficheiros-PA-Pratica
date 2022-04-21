@@ -1,20 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab81b83a-d652-416e-ba70-f310cbe6a876" name="Changes" comment="cenas">
-      <change afterPath="$PROJECT_DIR$/pedro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/isec/pa/exCommand£Facade/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/isec/pa/exCommand£Facade/model/ShoppingListManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/isec/pa/exCommand£Facade/model/cmd/AddProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/isec/pa/exCommand£Facade/model/cmd/CommandAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/isec/pa/exCommand£Facade/model/cmd/CommandManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/isec/pa/exCommand£Facade/model/cmd/ICommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/isec/pa/exCommand£Facade/model/cmd/RemoveProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/isec/pa/exCommand£Facade/model/data/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/isec/pa/exCommand£Facade/model/data/ShoppingList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/isec/pa/exCommand£Facade/ui/ShoppingListUI.java" afterDir="false" />
+    <list default="true" id="ab81b83a-d652-416e-ba70-f310cbe6a876" name="Changes" comment="command ane facade">
+      <change afterPath="$PROJECT_DIR$/pt/isec/pa/aula15/biblio/model/LibraryManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Prática/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Prática/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pedro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pedro" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +58,7 @@
       <recent name="pt.isec.deis.pa.aula6.ex13" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.pt.isec.pa.exCommand£Facade.Main">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="JavaSDK17" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="pt.isec.pa.fichaExercicios.ex11.Main" />
       <module name="Prática" />
@@ -80,19 +72,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="pt.isec.pa.apoio_poe.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ex23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pt.isec.pa.fichaExercicios.ex23.ex23" />
-      <module name="Prática" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pt.isec.pa.fichaExercicios.ex23.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,6 +105,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="pt.isec.pa.aula15.biblio.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pt.isec.pa.aula15.biblio.Main" />
+      <module name="Prática" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pt.isec.pa.aula15.biblio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="pt.isec.pa.exCommand£Facade.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pt.isec.pa.exCommand£Facade.Main" />
       <module name="Prática" />
@@ -141,19 +133,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.JavaSDK17" />
+      <item itemvalue="Application.pt.isec.pa.aula15.biblio.Main" />
       <item itemvalue="Application.pt.isec.pa.exCommand£Facade.Main" />
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.ex23" />
       <item itemvalue="Application.ex24" />
       <item itemvalue="Application.ex27" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.pt.isec.pa.exCommand£Facade.Main" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.pt.isec.pa.aula15.biblio.Main" />
+        <item itemvalue="Application.pt.isec.pa.exCommand£Facade.Main" />
         <item itemvalue="Application.ex27" />
         <item itemvalue="Application.ex24" />
-        <item itemvalue="Application.ex23" />
       </list>
     </recent_temporary>
   </component>
@@ -243,7 +235,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649874717590</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="command ane facade">
+      <created>1650479530102</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1650479530102</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -267,6 +266,7 @@
     <MESSAGE value="changes" />
     <MESSAGE value="ex27" />
     <MESSAGE value="cenas" />
-    <option name="LAST_COMMIT_MESSAGE" value="cenas" />
+    <MESSAGE value="command ane facade" />
+    <option name="LAST_COMMIT_MESSAGE" value="command ane facade" />
   </component>
 </project>
