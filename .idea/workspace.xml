@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab81b83a-d652-416e-ba70-f310cbe6a876" name="Changes" comment="aula15">
-      <change afterPath="$PROJECT_DIR$/pt/isec/pa/four_in_a_row/model/FourInARowManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/isec/pa/four_in_a_row/model/memento/CareTaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/isec/pa/four_in_a_row/model/memento/IMemento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/isec/pa/four_in_a_row/model/memento/IOriginator.java" afterDir="false" />
+    <list default="true" id="ab81b83a-d652-416e-ba70-f310cbe6a876" name="Changes" comment="memento">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prática.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Prática.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Prática/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Prática/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Prática/asd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Prática/save" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Prática/test" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +23,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/pt/isec/pa/apoio_poe/model/data/ApoioPoeManager.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/pt/isec/pa/apoio_poe/model/fsm/concreteStates/Fase3AtribuicaoAutomatica.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/pt/isec/pa/apoio_poe/ui/text/ApoioPoeUI.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -40,11 +39,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "last_opened_file_path": "C:/Program Files/Java/javafx-sdk-17.0.2/lib",
+    "project.structure.last.edited": "Global Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="G:\Outros computadores\Desktop\Escola\ISEC\Licenciatura de Engenharia Informática\Cadeiras\2º Ano\2º Semestre\Programação Avançada\Prática\pt\isec\deis\pa\fichaExercicios\ex19\Model" />
@@ -60,7 +63,7 @@
       <recent name="pt.isec.deis.pa.aula6.ex13" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FourInARow">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="FourInARow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pt.isec.pa.four_in_a_row.FourInARow" />
       <module name="Prática" />
@@ -143,8 +146,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FourInARow" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.FourInARow" />
         <item itemvalue="Application.pt.isec.pa.aula15.biblio.Main" />
         <item itemvalue="Application.pt.isec.pa.exCommand£Facade.Main" />
         <item itemvalue="Application.ex27" />
@@ -251,7 +254,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650583364711</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="memento">
+      <created>1651083809384</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1651083809385</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -277,6 +287,7 @@
     <MESSAGE value="cenas" />
     <MESSAGE value="command ane facade" />
     <MESSAGE value="aula15" />
-    <option name="LAST_COMMIT_MESSAGE" value="aula15" />
+    <MESSAGE value="memento" />
+    <option name="LAST_COMMIT_MESSAGE" value="memento" />
   </component>
 </project>
