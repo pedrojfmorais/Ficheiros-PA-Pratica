@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="ex29">
+    <output-path>$PROJECT_DIR$/out/artifacts/ex29</output-path>
+    <root id="root">
+      <element id="archive" name="ex29.jar">
+        <element id="module-output" name="ex29" />
+      </element>
+    </root>
+  </artifact>
+</component>
