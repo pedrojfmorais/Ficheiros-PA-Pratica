@@ -1,7 +1,5 @@
 package pt.isec.pa.aula15.biblio.model;
 
-import pt.isec.pa.apoio_poe.model.data.ApoioPOE;
-import pt.isec.pa.apoio_poe.model.fsm.ApoioPoeState;
 import pt.isec.pa.aula15.biblio.model.books.Book;
 import pt.isec.pa.aula15.biblio.model.books.OldBook;
 import pt.isec.pa.aula15.biblio.model.books.RecentBook;

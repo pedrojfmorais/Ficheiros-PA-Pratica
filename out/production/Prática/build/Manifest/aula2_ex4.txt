@@ -1,2 +1,0 @@
-Main-Class: pt.isec.pa.fichaExercicios.ex4.ex4
-

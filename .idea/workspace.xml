@@ -4,7 +4,145 @@
     <list default="true" id="ab81b83a-d652-416e-ba70-f310cbe6a876" name="Changes" comment="memento">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Prática.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Prática.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Prática/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Prática/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/.idea/libraries/jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/.idea/libraries/jar1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/Prática.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/build/Manifest/aula1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/build/Manifest/aula2_ex2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/build/Manifest/aula2_ex4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/build/Manifest/aula3_ex7.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/build/Manifest/aula3_ex9.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/build/jar/aula1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/build/jar/aula2_ex2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/build/jar/aula2_ex4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/build/jar/aula3_ex7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/build/jar/aula3_ex9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/commandos.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/files/alunos.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/files/candidaturas.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/files/docentes.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/files/propostas.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/aula1/ParInteiros.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/aula1/SomaParInteiros.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/aula15/biblio/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/aula15/biblio/model/LibraryManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/aula15/biblio/model/books/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/aula15/biblio/model/books/BookComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/aula15/biblio/model/books/BookComparatorIgnoreCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/aula15/biblio/model/books/OldBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/aula15/biblio/model/books/RecentBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/aula15/biblio/model/library/Library.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/aula15/biblio/ui/LibraryUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/exCommand£Facade/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/exCommand£Facade/model/ShoppingListManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/exCommand£Facade/model/cmd/AddProduct.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/exCommand£Facade/model/cmd/CommandAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/exCommand£Facade/model/cmd/CommandManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/exCommand£Facade/model/cmd/ICommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/exCommand£Facade/model/cmd/RemoveProduct.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/exCommand£Facade/model/data/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/exCommand£Facade/model/data/ShoppingList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/exCommand£Facade/ui/ShoppingListUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex10/Interface/JogoEnforcadoIU.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex10/Modelo/JogoEnforcadoDicionario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex10/Modelo/JogoEnforcadoModelo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex10/ex10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex11/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex11/Report.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex11/ReportUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex13/Model/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex13/Model/ILibrary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex13/Model/Library.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex13/Model/Library_ArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex13/Model/Library_HashMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex13/Model/Library_HashSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex13/UI/LibraryUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex13/ex13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex15/Dictionary$DictionaryOneLang.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex15/Dictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex15/aula9_ex15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex18/TemperaturaDiaria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex18/Temperaturas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex18/aula9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex19/Model/Books/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex19/Model/Books/BookComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex19/Model/Books/OldBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex19/Model/Books/RecentBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex19/Model/Libraries/ILibrary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex19/Model/Libraries/Library.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex19/Model/Libraries/Library_ArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex19/UI/LibraryUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex19/ex19.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex2/ex2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex23/Frota/CargaComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex23/Frota/Frota.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex23/Frota/IMaxLoad.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex23/Frota/IPassengers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex23/Frota/PassageirosComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex23/Frota/Veiculo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex23/Frota/VeiculoCarga.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex23/Frota/VeiculoLigeiroPassageiros.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex23/Frota/VeiculoPesadoPassageiros.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex23/UI/FrotaUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex23/ex23.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex24/ex24.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex24/model/data/Elevator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex24/model/fsm/BrokenState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex24/model/fsm/ElevatorContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex24/model/fsm/ElevatorState$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex24/model/fsm/ElevatorState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex24/model/fsm/ElevatorStateAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex24/model/fsm/FirstFloorState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex24/model/fsm/GroundFloorState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex24/model/fsm/IElevatorState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex24/model/fsm/SecondFloorState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex24/ui/ElevatorUI$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex24/ui/ElevatorUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex27/ex27.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex27/model/data/BallType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex27/model/data/GameBWData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex27/model/fsm/GameBWContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex27/model/fsm/GameBWState$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex27/model/fsm/GameBWState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex27/model/fsm/GameBWStateAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex27/model/fsm/IGameBWState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex27/model/fsm/beforeBetState$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex27/model/fsm/beforeBetState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex27/model/fsm/lostWaitDecisionState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex27/model/fsm/notPlayingState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex27/ui/GameBWUI$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex27/ui/GameBWUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex4/ex4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex5/Totoloto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex5/ex5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex7/MatrizExemplo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex7/ex7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex9/TrianguloPascal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/fichaExercicios/ex9/ex9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/four_in_a_row/FourInARow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/four_in_a_row/model/FourInARowManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/four_in_a_row/model/data/FourInARowData$Direction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/four_in_a_row/model/data/FourInARowData$MyMemento.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/four_in_a_row/model/data/FourInARowData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/four_in_a_row/model/data/Piece$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/four_in_a_row/model/data/Piece.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/four_in_a_row/model/memento/CareTaker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/four_in_a_row/model/memento/IMemento.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/four_in_a_row/model/memento/IOriginator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/four_in_a_row/ui/FourInARowUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/four_in_a_row/ui/utils/PAInput.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/utils/ModelLogs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/pt/isec/pa/utils/PAInput.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Prática/qwe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pt/isec/pa/aula15/biblio/model/LibraryManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/aula15/biblio/model/LibraryManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex29/ex29.iml" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex29/ex29.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex29/out/production/ex29/pt/isec/pa/ex29/ui/gui/RootPane.class" beforeDir="false" afterPath="$PROJECT_DIR$/pt/isec/pa/fichaExercicios/ex29/out/production/ex29/pt/isec/pa/ex29/ui/gui/RootPane.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,11 +161,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/pt/isec/pa/apoio_poe/model/data/ApoioPoeManager.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/pt/isec/pa/apoio_poe/model/fsm/concreteStates/Fase3AtribuicaoAutomatica.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/pt/isec/pa/apoio_poe/ui/text/ApoioPoeUI.java" root0="FORCE_HIGHLIGHTING" />
-  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -39,15 +172,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "last_opened_file_path": "C:/Program Files/Java/javafx-sdk-17.0.2/lib",
-    "project.structure.last.edited": "Global Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "editor.preferences.tabs"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Desktop/Escola/ISEC/Licenciatura de Engenharia Informática/Cadeiras/2º Ano/2º Semestre/Programação Avançada/TrabalhoPratico&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Global Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="G:\Outros computadores\Desktop\Escola\ISEC\Licenciatura de Engenharia Informática\Cadeiras\2º Ano\2º Semestre\Programação Avançada\Prática\pt\isec\deis\pa\fichaExercicios\ex19\Model" />
@@ -162,6 +299,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1646935176895</updated>
+      <workItem from="1651332270777" duration="755000" />
+      <workItem from="1651349191826" duration="4000" />
+      <workItem from="1651356215921" duration="1017000" />
+      <workItem from="1652012733219" duration="133000" />
+      <workItem from="1652012872711" duration="1027000" />
+      <workItem from="1652018058071" duration="841000" />
     </task>
     <task id="LOCAL-00001" summary="aula6">
       <created>1647458932164</created>
@@ -263,6 +406,9 @@
     </task>
     <option name="localTasksCounter" value="15" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
