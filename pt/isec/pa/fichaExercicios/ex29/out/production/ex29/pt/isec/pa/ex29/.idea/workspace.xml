@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ababd44f-3be5-4436-a048-6c8e41465d0f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../ex30/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex30/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex30/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex30/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex30/out/production/ex30/pt/isec/pa/exerc30/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex30/out/production/ex30/pt/isec/pa/exerc30/model/Drawing.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex30/out/production/ex30/pt/isec/pa/exerc30/model/Figure$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex30/out/production/ex30/pt/isec/pa/exerc30/model/Figure$FigureType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex30/out/production/ex30/pt/isec/pa/exerc30/model/Figure.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex30/out/production/ex30/pt/isec/pa/exerc30/model/Line.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex30/out/production/ex30/pt/isec/pa/exerc30/model/Oval.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex30/out/production/ex30/pt/isec/pa/exerc30/model/Rectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex30/out/production/ex30/pt/isec/pa/exerc30/ui/gui/DrawingArea$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex30/out/production/ex30/pt/isec/pa/exerc30/ui/gui/DrawingArea.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex30/out/production/ex30/pt/isec/pa/exerc30/ui/gui/DrawingToolbar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex30/out/production/ex30/pt/isec/pa/exerc30/ui/gui/MainJFX.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex30/out/production/ex30/pt/isec/pa/exerc30/ui/gui/RootPane.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex30/src/pt/isec/pa/exerc30/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex30/src/pt/isec/pa/exerc30/model/Drawing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex30/src/pt/isec/pa/exerc30/model/Figure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex30/src/pt/isec/pa/exerc30/model/Line.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex30/src/pt/isec/pa/exerc30/model/Oval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex30/src/pt/isec/pa/exerc30/model/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex30/src/pt/isec/pa/exerc30/ui/gui/DrawingArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex30/src/pt/isec/pa/exerc30/ui/gui/DrawingToolbar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex30/src/pt/isec/pa/exerc30/ui/gui/MainJFX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex30/src/pt/isec/pa/exerc30/ui/gui/RootPane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/ex29.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex29.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ex30/ex30.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ex29/pt/isec/pa/ex29/JavaFXMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ex29/pt/isec/pa/ex29/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ex29/pt/isec/pa/ex29/ui/gui/RootPane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pt/isec/pa/ex29/JavaFXMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pt/isec/pa/ex29/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pt/isec/pa/ex29/ui/gui/RootPane.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29OXj7QgIWaxlVwKCBLohUbcTGZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "project.structure.last.edited": "Global Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="pt.isec.pa.ex29.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pt.isec.pa.ex29.Main" />
+      <module name="ex29" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Program Files\Java\javafx-sdk-17.0.2\lib&quot; --add-modules javafx.controls" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pt.isec.pa.ex29.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.pt.isec.pa.ex29.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ababd44f-3be5-4436-a048-6c8e41465d0f" name="Changes" comment="" />
+      <created>1652985238512</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652985238512</updated>
+      <workItem from="1652985240436" duration="62000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
