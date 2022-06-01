@@ -5,7 +5,7 @@ import javafx.scene.paint.Color;
 import javafx.scene.shape.Ellipse;
 import javafx.scene.shape.Line;
 import javafx.scene.shape.Rectangle;
-import pt.isec.pa.exerc30.model.Drawing;
+import pt.isec.pa.exerc30.model.DrawingManager;
 import pt.isec.pa.exerc30.model.Figure;
 
 public class DrawingToolbar extends ToolBar{
@@ -13,14 +13,14 @@ public class DrawingToolbar extends ToolBar{
     private static final int TOGGLE_SIZE = 40;
     private static final int TOGGLE_IMG_SIZE = TOGGLE_SIZE - 10;
 
-    Drawing drawing;
+    DrawingManager drawing;
     Rectangle rectRandom;
     ToggleButton btnRed, btnRandom;
     ToggleButton btnLine, btnRect, btnOval;
 
     ColorPicker colorPicker;
 
-    public DrawingToolbar(Drawing drawing) {
+    public DrawingToolbar(DrawingManager drawing) {
         this.drawing = drawing;
 
         createViews();
@@ -76,20 +76,23 @@ public class DrawingToolbar extends ToolBar{
 
     private void registerHandlers() {
 
+
+        drawing.addPropertyChangeListener(DrawingManager.PROP_TOOLS, evt -> update());
+
         btnRed.setOnAction(actionEvent -> {
             drawing.setRGB(1, 0, 0);
-            update();
+//            update();
         });
 
         btnRandom.setOnAction(actionEvent -> {
             drawing.setRGB(Math.random(), Math.random(), Math.random());
-            update();
+//            update();
         });
 
         colorPicker.setOnAction(actionEvent -> {
             Color color = colorPicker.getValue();
             drawing.setRGB(color.getRed(), color.getGreen(), color.getBlue());
-            update();
+//            update();
         });
 
         btnLine.setOnAction(actionEvent -> drawing.setCurrentType(Figure.FigureType.LINE));
@@ -104,5 +107,16 @@ public class DrawingToolbar extends ToolBar{
         Color color = Color.color(drawing.getR(), drawing.getG(), drawing.getB());
         rectRandom.setFill(color);
         colorPicker.setValue(color);
+
+        if(Color.color(1, 0, 0).equals(color))
+            btnRed.setSelected(true);
+        else
+            btnRandom.setSelected(true);
+
+        switch (drawing.getCurrentType()){
+            case LINE -> btnLine.setSelected(true);
+            case RECTANGLE -> btnRect.setSelected(true);
+            case OVAL -> btnOval.setSelected(true);
+        }
     }
 }

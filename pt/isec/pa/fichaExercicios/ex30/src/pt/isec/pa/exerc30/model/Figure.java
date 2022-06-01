@@ -1,6 +1,10 @@
 package pt.isec.pa.exerc30.model;
 
-public abstract class Figure implements Cloneable{
+import javafx.scene.paint.Color;
+
+import java.io.Serializable;
+
+public abstract class Figure implements Cloneable, Serializable {
     public enum FigureType {
         LINE, RECTANGLE, OVAL;
 
@@ -87,5 +91,10 @@ public abstract class Figure implements Cloneable{
     @Override
     public Object clone() throws CloneNotSupportedException {
         return super.clone();
+    }
+
+    @Override
+    public String toString() {
+        return getClass().getSimpleName();
     }
 }

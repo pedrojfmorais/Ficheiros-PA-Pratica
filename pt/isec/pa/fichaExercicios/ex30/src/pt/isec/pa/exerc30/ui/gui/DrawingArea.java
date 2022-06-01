@@ -3,14 +3,14 @@ package pt.isec.pa.exerc30.ui.gui;
 import javafx.scene.canvas.Canvas;
 import javafx.scene.canvas.GraphicsContext;
 import javafx.scene.paint.Color;
-import pt.isec.pa.exerc30.model.Drawing;
+import pt.isec.pa.exerc30.model.DrawingManager;
 import pt.isec.pa.exerc30.model.Figure;
 
 public class DrawingArea extends Canvas {
 
-    Drawing drawing;
+    DrawingManager drawing;
 
-    public DrawingArea(Drawing drawing) {
+    public DrawingArea(DrawingManager drawing) {
         this.drawing = drawing;
 
         registerHandlers();
@@ -19,6 +19,8 @@ public class DrawingArea extends Canvas {
 
 
     private void registerHandlers() {
+
+        drawing.addPropertyChangeListener(DrawingManager.PROP_FIGURES, evt -> update());
 
         this.setOnMousePressed(mouseEvent -> {
 
@@ -31,21 +33,21 @@ public class DrawingArea extends Canvas {
 //
 //            drawing.setRGB(Math.random(), Math.random(), Math.random());
             drawing.createFigure(mouseEvent.getX(), mouseEvent.getY());
-            update();
+//            update();
 
         });
 
         this.setOnMouseDragged(mouseEvent -> {
 
             drawing.updateCurrentFigure(mouseEvent.getX(), mouseEvent.getY());
-            update();
+//            update();
 
         });
 
         this.setOnMouseReleased(mouseEvent -> {
 
             drawing.finishCurrentFigure(mouseEvent.getX(), mouseEvent.getY());
-            update();
+//            update();
 
         });
     }

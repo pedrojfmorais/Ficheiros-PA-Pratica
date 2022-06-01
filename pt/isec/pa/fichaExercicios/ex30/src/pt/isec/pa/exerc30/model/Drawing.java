@@ -1,9 +1,10 @@
 package pt.isec.pa.exerc30.model;
 
+import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Drawing {
+public class Drawing implements Serializable {
     Figure.FigureType currentType;
     double r,g,b;
     ArrayList<Figure> figures;
@@ -81,5 +82,10 @@ public class Drawing {
     public void removeLast() {
         if (figures.size()>0)
             figures.remove(figures.size()-1);
+    }
+
+    public void remove(int index){
+        if(index >= 0 && index < figures.size())
+            figures.remove(index);
     }
 }
