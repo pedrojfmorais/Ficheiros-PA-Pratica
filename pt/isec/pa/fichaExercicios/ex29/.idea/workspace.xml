@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ababd44f-3be5-4436-a048-6c8e41465d0f" name="Changes" comment="ex 28, 29 e 30">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../mavenTest/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../mavenTest/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../mavenTest/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../mavenTest/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex30/src/pt/isec/pa/exerc30/ui/gui/ListPane.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ex30/src/pt/isec/pa/exerc30/ui/gui/ListPane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mavenTest/MavenTest (1).iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +68,7 @@
       <workItem from="1654020200362" duration="147000" />
       <workItem from="1654020937838" duration="548000" />
       <workItem from="1654101289878" duration="99000" />
+      <workItem from="1654700303578" duration="18000" />
     </task>
     <task id="LOCAL-00001" summary="ex 28, 29 e 30">
       <created>1652985406059</created>

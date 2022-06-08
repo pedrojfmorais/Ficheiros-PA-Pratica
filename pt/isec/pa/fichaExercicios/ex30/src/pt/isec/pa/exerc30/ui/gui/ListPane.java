@@ -27,7 +27,6 @@ public class ListPane extends ListView<Figure> {
         this.setContextMenu(new ContextMenu(delete, change));
     }
 
-
     public void registerHandlers(){
         drawing.addPropertyChangeListener(DrawingManager.PROP_FIGURES, evt -> update());
 
