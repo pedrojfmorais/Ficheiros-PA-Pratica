@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<?import javafx.geometry.Insets?>
+<VBox xmlns="http://javafx.com/javafx"
+      xmlns:fx="http://javafx.com/fxml"
+      fx:controller="pt.isec.pa.calculator.ui.CalculatorPane"
+      prefHeight="400.0" prefWidth="600.0">
+
+    <padding>
+        <Insets topRightBottomLeft="10"/>
+    </padding>
+
+    <TextField text="0.0" fx:id="tfDisplay" prefHeight="1000" prefWidth="1000" editable="false" id="display"/>
+
+    <HBox prefHeight="1000" spacing="10">
+        <Button
+    </HBox>
+
+</VBox>

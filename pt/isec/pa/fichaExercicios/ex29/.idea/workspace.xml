@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ababd44f-3be5-4436-a048-6c8e41465d0f" name="Changes" comment="ex 28, 29 e 30">
-      <change beforePath="$PROJECT_DIR$/../ex30/src/pt/isec/pa/exerc30/ui/gui/ListPane.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ex30/src/pt/isec/pa/exerc30/ui/gui/ListPane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../mavenTest/MavenTest (1).iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex31/GameBW_JFX/out/production/GameBW_JFX/pt/isec/pa/gamebw/ui/gui/EndUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ex31/GameBW_JFX/out/production/GameBW_JFX/pt/isec/pa/gamebw/ui/gui/EndUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mavenTest/MavenTest.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,17 +22,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Global Libraries&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Desktop/Escola/ISEC/Licenciatura de Engenharia Informática/Cadeiras/2º Ano/2º Semestre/Programação Avançada/Prática/pt/isec/pa/fichaExercicios/ex30",
+    "project.structure.last.edited": "Global Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="pt.isec.pa.ex29.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pt.isec.pa.ex29.Main" />
@@ -69,6 +70,7 @@
       <workItem from="1654020937838" duration="548000" />
       <workItem from="1654101289878" duration="99000" />
       <workItem from="1654700303578" duration="18000" />
+      <workItem from="1654942240601" duration="80000" />
     </task>
     <task id="LOCAL-00001" summary="ex 28, 29 e 30">
       <created>1652985406059</created>
