@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox xmlns="http://javafx.com/javafx"
+        xmlns:fx="http://javafx.com/fxml"
+        fx:controller="pt.isec.pa.calculator.ui.CalculatorPane"
+        prefHeight="400.0" prefWidth="350.0">
+
+    <Label fx:id="visor" text="0.0"></Label>
+    <VBox spacing="10">
+        <HBox spacing="10">
+            <Button onAction="#onButtonAC" prefWidth="80" prefHeight="80" text="AC" />
+            <Button onAction="#onButtonPerc" prefWidth="80" prefHeight="80" text="\%" />
+            <Button onAction="#onButtonInvert" prefWidth="80" prefHeight="80" text="+/-" />
+            <Button onAction="#onButtonOp" prefWidth="80" prefHeight="80" text="/" />
+        </HBox>
+        <HBox spacing="10">
+            <Button onAction="#onButtonNr" prefWidth="80" prefHeight="80" text="7" />
+            <Button onAction="#onButtonNr" prefWidth="80" prefHeight="80" text="8" />
+            <Button onAction="#onButtonNr" prefWidth="80" prefHeight="80" text="9" />
+            <Button onAction="#onButtonOp" prefWidth="80" prefHeight="80" text="*" />
+        </HBox>
+        <HBox spacing="10">
+            <Button onAction="#onButtonNr" prefWidth="80" prefHeight="80" text="4" />
+            <Button onAction="#onButtonNr" prefWidth="80" prefHeight="80" text="5" />
+            <Button onAction="#onButtonNr" prefWidth="80" prefHeight="80" text="6" />
+            <Button onAction="#onButtonOp" prefWidth="80" prefHeight="80" text="-" />
+        </HBox>
+        <HBox spacing="10">
+            <Button onAction="#onButtonNr" prefWidth="80" prefHeight="80" text="1" />
+            <Button onAction="#onButtonNr" prefWidth="80" prefHeight="80" text="2" />
+            <Button onAction="#onButtonNr" prefWidth="80" prefHeight="80" text="3" />
+            <Button onAction="#onButtonOp" prefWidth="80" prefHeight="80" text="+" />
+        </HBox>
+        <HBox spacing="10">
+            <Button onAction="#onButtonPi" prefWidth="80" prefHeight="80" text="Pi" />
+            <Button onAction="#onButtonNr" prefWidth="80" prefHeight="80" text="0" />
+            <Button onAction="#onButtonNr" prefWidth="80" prefHeight="80" text="." />
+            <Button onAction="#onButtonOp" prefWidth="80" prefHeight="80" text="=" />
+        </HBox>
+    </VBox>
+
+</VBox>
