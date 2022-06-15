@@ -1,45 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ababd44f-3be5-4436-a048-6c8e41465d0f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../ex30/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ex30/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ex30/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ex30/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ex30/out/production/ex30/pt/isec/pa/exerc30/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ex30/out/production/ex30/pt/isec/pa/exerc30/model/Drawing.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ex30/out/production/ex30/pt/isec/pa/exerc30/model/Figure$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ex30/out/production/ex30/pt/isec/pa/exerc30/model/Figure$FigureType.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ex30/out/production/ex30/pt/isec/pa/exerc30/model/Figure.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ex30/out/production/ex30/pt/isec/pa/exerc30/model/Line.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ex30/out/production/ex30/pt/isec/pa/exerc30/model/Oval.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ex30/out/production/ex30/pt/isec/pa/exerc30/model/Rectangle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ex30/out/production/ex30/pt/isec/pa/exerc30/ui/gui/DrawingArea$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ex30/out/production/ex30/pt/isec/pa/exerc30/ui/gui/DrawingArea.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ex30/out/production/ex30/pt/isec/pa/exerc30/ui/gui/DrawingToolbar.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ex30/out/production/ex30/pt/isec/pa/exerc30/ui/gui/MainJFX.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ex30/out/production/ex30/pt/isec/pa/exerc30/ui/gui/RootPane.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ex30/src/pt/isec/pa/exerc30/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ex30/src/pt/isec/pa/exerc30/model/Drawing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ex30/src/pt/isec/pa/exerc30/model/Figure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ex30/src/pt/isec/pa/exerc30/model/Line.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ex30/src/pt/isec/pa/exerc30/model/Oval.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ex30/src/pt/isec/pa/exerc30/model/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ex30/src/pt/isec/pa/exerc30/ui/gui/DrawingArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ex30/src/pt/isec/pa/exerc30/ui/gui/DrawingToolbar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ex30/src/pt/isec/pa/exerc30/ui/gui/MainJFX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ex30/src/pt/isec/pa/exerc30/ui/gui/RootPane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/ex29.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex29.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ex30/ex30.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ex29/pt/isec/pa/ex29/JavaFXMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ex29/pt/isec/pa/ex29/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ex29/pt/isec/pa/ex29/ui/gui/RootPane.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pt/isec/pa/ex29/JavaFXMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pt/isec/pa/ex29/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pt/isec/pa/ex29/ui/gui/RootPane.java" beforeDir="false" />
+    <list default="true" id="ababd44f-3be5-4436-a048-6c8e41465d0f" name="Changes" comment="ex 28, 29 e 30">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,10 +25,12 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Desktop/Escola/ISEC/Licenciatura de Engenharia Informática/Cadeiras/2º Ano/2º Semestre/Programação Avançada/Prática/pt/isec/pa/fichaExercicios/ex30",
     "project.structure.last.edited": "Global Libraries",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.proportion": "0.17",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="RunManager">
@@ -97,11 +62,42 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652985238512</updated>
-      <workItem from="1652985240436" duration="62000" />
+      <workItem from="1652985240436" duration="183000" />
+      <workItem from="1654002788289" duration="591000" />
+      <workItem from="1654003887922" duration="32000" />
+      <workItem from="1654020200362" duration="147000" />
+      <workItem from="1654020937838" duration="548000" />
+      <workItem from="1654101289878" duration="99000" />
+      <workItem from="1654700303578" duration="18000" />
+      <workItem from="1654942240601" duration="80000" />
+      <workItem from="1655304132719" duration="29000" />
     </task>
+    <task id="LOCAL-00001" summary="ex 28, 29 e 30">
+      <created>1652985406059</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652985406059</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ex 28, 29 e 30" />
+    <option name="LAST_COMMIT_MESSAGE" value="ex 28, 29 e 30" />
   </component>
 </project>
